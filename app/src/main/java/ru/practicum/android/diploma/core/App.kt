@@ -1,4 +1,4 @@
-package ru.practicum.android.diploma.util
+package ru.practicum.android.diploma.core
 
 import android.app.Application
 import org.koin.android.ext.koin.androidContext
