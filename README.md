@@ -5,7 +5,7 @@
 
 - Поиск вакансий
 
-  <img src="https://github.com/VPolikushin94/practicum-android-diploma/assets/121296133/9348569e-415d-4eed-a4bd-64d855e23f5a" width="250"/>
+  <img src="https://github.com/DFater/Practicum-Vacancy/assets/118625726/f2670831-a4f5-413b-96b9-24eeae5221a5" width="250"/>
 
 - Указание фильтров для поиска
 
