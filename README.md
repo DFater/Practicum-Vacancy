@@ -64,3 +64,6 @@
 ## Общие требования
 
 - Приложение должно поддерживать устройства, начиная с Android 8.0 (minSdkVersion = 26)
+
+## Стэк технологий
+- Jetpack Navigation Component, ViewModel, Okhttp, Retrofit2, Room, Coroutines Flow, Koin, LiveData, RecyclerView,SharedPreferences, BottomNavigationView, Fragment
